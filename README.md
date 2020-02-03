@@ -1,5 +1,5 @@
 # Concordance
-Given an arbitrary text document written in English, write a program that will generate a concordance, i.e. an alphabetical list of all word occurrences, labeled with word frequencies. Bonus: label each word with the sentence numbers in which each occurrence appeared.\
+Given an arbitrary text document written in English, write a program that will generate a concordance, i.e. an alphabetical list of all word occurrences, labeled with word frequencies. Bonus: label each word with the sentence numbers in which each occurrence appeared.
 
 Eg:\
 a.	a	{2:1,1}\
@@ -37,6 +37,6 @@ ff.	word	{3:1,1,2}\
 gg.	write	{1:1}\
 hh.	written	{1:1}
 
-#Output
-
+# Output
+![alt text](https://github.com/bennetmathew/Concordance/blob/master/output/Concordance_Output.PNG)
 
