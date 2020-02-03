@@ -1,0 +1,11 @@
+C:\Users\mathewb\source\repos\Concordance\bin\Debug\netcoreapp3.0\Concordance.exe
+C:\Users\mathewb\source\repos\Concordance\bin\Debug\netcoreapp3.0\Concordance.deps.json
+C:\Users\mathewb\source\repos\Concordance\bin\Debug\netcoreapp3.0\Concordance.runtimeconfig.json
+C:\Users\mathewb\source\repos\Concordance\bin\Debug\netcoreapp3.0\Concordance.runtimeconfig.dev.json
+C:\Users\mathewb\source\repos\Concordance\bin\Debug\netcoreapp3.0\Concordance.dll
+C:\Users\mathewb\source\repos\Concordance\bin\Debug\netcoreapp3.0\Concordance.pdb
+C:\Users\mathewb\source\repos\Concordance\obj\Debug\netcoreapp3.0\Concordance.csprojAssemblyReference.cache
+C:\Users\mathewb\source\repos\Concordance\obj\Debug\netcoreapp3.0\Concordance.AssemblyInfoInputs.cache
+C:\Users\mathewb\source\repos\Concordance\obj\Debug\netcoreapp3.0\Concordance.AssemblyInfo.cs
+C:\Users\mathewb\source\repos\Concordance\obj\Debug\netcoreapp3.0\Concordance.dll
+C:\Users\mathewb\source\repos\Concordance\obj\Debug\netcoreapp3.0\Concordance.pdb
